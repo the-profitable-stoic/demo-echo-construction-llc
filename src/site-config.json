@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Echo Construction LLC",
+    "phone": "+16157502441",
+    "category": "general contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-red-charge",
+      "categoryGroup": "general-contractor",
+      "name": "Red Charge",
+      "recipeFile": "general-contractor/red-charge.astro",
+      "colors": {
+        "primary": "#1E3A5F",
+        "primaryDark": "#0F1D30",
+        "primaryLight": "#c7ced7",
+        "secondary": "#1b3456",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1E3A5F",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Trusted Contractor",
+      "heroSubline": "Building and renovating homes with integrity and skill. Serving Nashville, Franklin, and surrounding areas.",
+      "aboutTitle": "Building Nashville, One Project at a Time",
+      "aboutText": [
+        "Echo Construction LLC was founded in Nashville over a decade ago, born from a passion for quality craftsmanship and a desire to build lasting relationships with our clients. We've grown from a small team to a dedicated crew of skilled professionals, all committed to exceeding expectations.",
+        "Our approach is simple: listen to our clients, understand their vision, and execute with precision. We value clear communication, transparent pricing, and a commitment to staying on schedule. We treat every project, big or small, with the same level of care and attention to detail.",
+        "We're proud to be a part of the Nashville community. We source materials locally whenever possible and actively support local charities. We believe in giving back to the city that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Nashville's unique housing styles and building codes."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and detailed estimates with no hidden fees."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Experienced team delivering exceptional results on every project."
+        },
+        {
+          "title": "Reliable Communication",
+          "description": "Dedicated project managers providing regular updates and prompt responses."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact Echo Construction today for a free consultation."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Nashville home.",
+        "description": "The kitchen is more than just a place to cook; it's a gathering space, a place for memories, and often the focal point of your home. Echo Construction specializes in creating kitchens that are both beautiful and functional. Whether you're dreaming of a complete overhaul or a simple refresh, we can bring your vision to life. We handle every aspect of the project, from initial design and layout to cabinet installation, countertop selection, and appliance upgrades. \n\nConsidering Nashville's diverse architectural styles, we tailor each kitchen remodel to complement your home's existing character. From modernizing a 1920s bungalow in East Nashville to updating a suburban ranch in Brentwood, we have the expertise to seamlessly integrate your new kitchen. We also understand the importance of durable materials that can withstand daily use. \n\nOur kitchen remodeling services include custom cabinetry, granite and quartz countertop installation, backsplash design and installation, flooring upgrades, lighting solutions, and appliance installation. We work with trusted local suppliers to source high-quality materials at competitive prices. We obtain all necessary permits and ensure that your project is completed to code.",
+        "process": [
+          "Step 1: Initial Consultation & Design – We discuss your needs, budget, and design preferences.",
+          "Step 2: Detailed Planning & Budgeting – We create a detailed plan and budget for your project.",
+          "Step 3: Demolition & Construction – Our skilled team handles all aspects of the demolition and construction process.",
+          "Step 4: Final Touches & Inspection – We ensure every detail is perfect before the final inspection."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 6-12 weeks. We'll provide a detailed timeline during the planning phase."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "It's possible to live in your home during a kitchen remodel, but it can be disruptive. We take measures to minimize dust and noise, but you may want to consider alternative living arrangements."
+          },
+          {
+            "question": "What is the cost of a kitchen remodel?",
+            "answer": "The cost depends on the size and complexity of the project, as well as the materials you choose. We offer free estimates to help you plan your budget."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a relaxing and functional bathroom oasis in your Nashville home.",
+        "description": "Your bathroom should be a haven, a place to relax and rejuvenate. Echo Construction specializes in bathroom remodels that combine beauty, functionality, and durability. Whether you're looking to update a dated bathroom or create a luxurious spa-like retreat, we can help. We handle all aspects of the project, from plumbing and electrical work to tile installation and fixture upgrades.\n\nWe understand the challenges of remodeling bathrooms in older Nashville homes. From dealing with outdated plumbing to navigating tight spaces, our experienced team has the expertise to overcome any obstacle. We also understand the importance of moisture control in bathrooms, especially given Nashville's humid climate. We use high-quality materials and proven techniques to prevent mold and mildew.\n\nOur bathroom remodeling services include custom vanities, shower and tub installation, tile flooring and wall installation, toilet and sink replacement, lighting and ventilation upgrades, and plumbing and electrical work. We work with trusted local suppliers to source high-quality materials at competitive prices. We obtain all necessary permits and ensure that your project is completed to code.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your vision, budget, and desired features for your new bathroom.",
+          "Step 2: Detailed Planning & Budgeting – We create a comprehensive plan and budget for your project.",
+          "Step 3: Demolition & Construction – Our skilled team handles all aspects of the demolition and construction process with minimal disruption.",
+          "Step 4: Final Inspection & Walkthrough – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Water Conservation"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "Most bathroom remodels take between 3-8 weeks, depending on the scope of the project. We'll provide a detailed timeline during the planning phase."
+          },
+          {
+            "question": "What type of tile is best for a bathroom?",
+            "answer": "Porcelain tile is a popular choice for bathrooms because it's durable, water-resistant, and easy to clean. Natural stone tiles can also be a beautiful option, but they require more maintenance."
+          },
+          {
+            "question": "Do I need a permit for a bathroom remodel?",
+            "answer": "Yes, in most cases you will need a permit for a bathroom remodel, especially if you're making changes to the plumbing or electrical systems. We handle all necessary permit applications."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-remodeling",
+        "name": "Whole House Remodeling",
+        "shortDescription": "Transform your entire Nashville home with our comprehensive remodeling services.",
+        "description": "Is your Nashville home in need of a complete makeover? Echo Construction specializes in whole house remodeling, transforming outdated spaces into modern, comfortable, and functional living environments. Whether you're looking to update the entire interior, add an addition, or renovate the exterior, we have the expertise to handle every aspect of the project.\n\nWe understand the unique challenges of whole house remodeling in Nashville, from coordinating multiple trades to managing complex timelines. Our experienced project managers will work closely with you to ensure that your project is completed on time and within budget. We also understand the importance of preserving the character of older homes while incorporating modern amenities.\n\nOur whole house remodeling services include kitchen remodeling, bathroom remodeling, basement finishing, attic conversions, room additions, exterior renovations, and more. We work with trusted local suppliers to source high-quality materials at competitive prices. We obtain all necessary permits and ensure that your project is completed to code.",
+        "process": [
+          "Step 1: Initial Consultation & Planning – We discuss your goals, budget, and timeline for the project.",
+          "Step 2: Design Development & Permitting – We create detailed designs and obtain all necessary permits.",
+          "Step 3: Construction & Project Management – Our skilled team manages all aspects of the construction process.",
+          "Step 4: Final Walkthrough & Completion – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Curb Appeal",
+          "Enhanced Functionality",
+          "Modernized Living Space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole house remodel take?",
+            "answer": "The timeline varies depending on the scope of the project, but most whole house remodels take between 6-18 months. We'll provide a detailed timeline during the planning phase."
+          },
+          {
+            "question": "Do I need to move out during a whole house remodel?",
+            "answer": "It's highly recommended that you move out during a whole house remodel, as the construction process can be disruptive and create unsafe living conditions."
+          },
+          {
+            "question": "How much does a whole house remodel cost?",
+            "answer": "The cost depends on the size and complexity of the project, as well as the materials you choose. We offer free estimates to help you plan your budget."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Transform your unfinished basement into valuable living space.",
+        "description": "Unlock the hidden potential of your Nashville home with Echo Construction's basement finishing services. An unfinished basement represents a significant opportunity to add living space, increase your home's value, and create a customized area that suits your family's needs. Whether you envision a home theater, a playroom, a home office, or an extra bedroom, we can bring your vision to life.\n\nWe understand the unique challenges of basement finishing in Nashville, including moisture control and proper ventilation. Our experienced team uses proven techniques and high-quality materials to create a dry, comfortable, and healthy living environment. We also ensure that your finished basement meets all local building codes.\n\nOur basement finishing services include framing, insulation, drywall, flooring, electrical, plumbing, and HVAC. We work with trusted local suppliers to source high-quality materials at competitive prices. We obtain all necessary permits and ensure that your project is completed to code. We also pay close attention to Nashville's limestone bedrock, ensuring proper foundation drainage and waterproofing.",
+        "process": [
+          "Step 1: Design & Planning – We discuss your needs and create a custom design for your finished basement.",
+          "Step 2: Permitting & Preparation – We obtain all necessary permits and prepare the basement for construction.",
+          "Step 3: Construction & Finishing – Our skilled team handles all aspects of the construction and finishing process.",
+          "Step 4: Final Inspection & Completion – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Expanded Living Space",
+          "Customized Design",
+          "Improved Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to finish a basement?",
+            "answer": "Most basement finishing projects take between 4-12 weeks, depending on the size and complexity of the project. We'll provide a detailed timeline during the planning phase."
+          },
+          {
+            "question": "Do I need a permit to finish my basement?",
+            "answer": "Yes, you will need a permit to finish your basement. We handle all necessary permit applications."
+          },
+          {
+            "question": "How much does it cost to finish a basement?",
+            "answer": "The cost depends on the size and complexity of the project, as well as the materials you choose. We offer free estimates to help you plan your budget."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Enhance your outdoor living space with a custom deck or patio.",
+        "description": "Extend your living space outdoors with a custom deck or patio from Echo Construction. We specialize in designing and building beautiful and functional outdoor spaces that enhance your Nashville home and lifestyle. Whether you're looking for a simple deck for grilling or a sprawling patio for entertaining, we can bring your vision to life.\n\nWe understand the importance of durable materials that can withstand Nashville's climate, from hot humid summers to occasional ice storms. We use high-quality lumber, composite decking, and pavers that are designed to last. We also ensure that your deck or patio is properly constructed to meet all local building codes.\n\nOur deck and patio construction services include custom deck design, composite decking installation, wood decking installation, patio paver installation, pergola construction, and outdoor lighting. We work with trusted local suppliers to source high-quality materials at competitive prices. We obtain all necessary permits and ensure that your project is completed to code.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your needs and create a custom design for your deck or patio.",
+          "Step 2: Permitting & Preparation – We obtain all necessary permits and prepare the site for construction.",
+          "Step 3: Construction & Installation – Our skilled team handles all aspects of the construction and installation process.",
+          "Step 4: Final Inspection & Completion – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Enhanced Outdoor Living Space",
+          "Improved Curb Appeal",
+          "Increased Entertainment Opportunities"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking material is best?",
+            "answer": "Composite decking is a popular choice because it's durable, low-maintenance, and resistant to rot and insects. Wood decking is a more traditional option, but it requires more maintenance."
+          },
+          {
+            "question": "Do I need a permit for a deck or patio?",
+            "answer": "Yes, in most cases you will need a permit for a deck or patio. We handle all necessary permit applications."
+          },
+          {
+            "question": "How much does a deck or patio cost?",
+            "answer": "The cost depends on the size and complexity of the project, as well as the materials you choose. We offer free estimates to help you plan your budget."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your Nashville home with our expert roofing services.",
+        "description": "Your roof is your home's first line of defense against the elements. Echo Construction provides comprehensive roofing services to protect your Nashville home from the unpredictable weather, from severe thunderstorms to occasional ice storms. Whether you need a roof repair, a roof replacement, or a new roof installation, we have the expertise to handle the job.\n\nWe understand the importance of a durable and reliable roof in Nashville's climate. We use high-quality roofing materials that are designed to withstand the elements and last for years to come. We also ensure that your roof is properly installed to meet all local building codes.\n\nOur roofing services include roof repair, roof replacement, new roof installation, shingle roofing, metal roofing, flat roofing, and roof inspections. We work with trusted local suppliers to source high-quality materials at competitive prices. We obtain all necessary permits and ensure that your project is completed to code.",
+        "process": [
+          "Step 1: Roof Inspection – We conduct a thorough inspection of your roof to assess its condition.",
+          "Step 2: Estimate & Planning – We provide a detailed estimate and plan for your roofing project.",
+          "Step 3: Roofing Installation or Repair – Our skilled team handles all aspects of the roofing installation or repair process.",
+          "Step 4: Final Inspection & Cleanup – We ensure your complete satisfaction with the finished product and clean up the job site."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Curb Appeal",
+          "Protection from the Elements",
+          "Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a new roof?",
+            "answer": "Signs that you may need a new roof include leaks, missing shingles, damaged flashing, and excessive granule loss."
+          },
+          {
+            "question": "What type of roofing material is best?",
+            "answer": "Asphalt shingles are a popular choice because they're affordable and durable. Metal roofing is a more expensive option, but it's also more durable and long-lasting."
+          },
+          {
+            "question": "How long does a new roof last?",
+            "answer": "The lifespan of a roof depends on the type of roofing material and the quality of the installation. Asphalt shingle roofs typically last 20-30 years, while metal roofs can last 50 years or more."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Echo Construction LLC is proud to offer our comprehensive general contractor services to the residents and businesses of Franklin, Tennessee. Known for its charming historic downtown and stunning antebellum homes, Franklin presents unique construction and renovation opportunities. We understand the importance of preserving the architectural heritage of this area while incorporating modern amenities and functionality. Our team has extensive experience working on historic properties, ensuring that your project is completed with the utmost care and attention to detail.\n\nWe also cater to the needs of homeowners in newer developments throughout Franklin. Whether you're looking to build a custom home, remodel your kitchen, or add an addition to your existing property, Echo Construction LLC has the expertise to bring your vision to life. We are familiar with the challenges presented by the hot, humid summers of Tennessee and can recommend building materials and techniques that will ensure your home is energy-efficient and comfortable year-round. We specialize in outdoor living spaces to enjoy the Tennessee climate.\n\nFrom design to completion, we are committed to providing exceptional service and quality craftsmanship. Let Echo Construction LLC be your trusted partner for all your construction needs in Franklin.",
+        "localContext": "Franklin is a vibrant city known for its historic downtown, antebellum homes, and thriving arts and culture scene. The area experiences hot, humid summers and mild winters.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Echo Construction LLC is dedicated to serving the growing community of Murfreesboro, Tennessee with top-notch general contractor services. As one of the fastest-growing cities in Tennessee, Murfreesboro offers a diverse range of housing options, from affordable family developments to new construction projects. We understand the needs of Murfreesboro homeowners and businesses and are committed to providing high-quality workmanship at competitive prices.\n\nWhether you're looking to build a new home, renovate your existing space, or add an addition, Echo Construction LLC has the experience and expertise to handle your project. We are familiar with the local building codes and regulations and can ensure that your project is completed safely and efficiently. We also understand the importance of creating functional and comfortable living spaces that meet the needs of modern families. With the hot, humid summers, we can design and build outdoor living spaces to extend your enjoyment of your property.\n\nFrom initial consultation to final inspection, we are committed to providing exceptional customer service and ensuring your complete satisfaction. Let Echo Construction LLC be your trusted partner for all your construction needs in Murfreesboro.",
+        "localContext": "Murfreesboro is a rapidly growing city known for its affordable family developments, strong economy, and rich history. The climate features hot humid summers.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Shelbyville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Echo Construction LLC is pleased to offer our premier general contractor services to the discerning homeowners of Brentwood, Tennessee. Known for its luxury estates and sprawling wooded lots, Brentwood requires a level of expertise and attention to detail that we are proud to provide. We understand the unique challenges and opportunities presented by the high-end properties in this area and are committed to delivering exceptional results.\n\nWhether you're looking to build a custom dream home, renovate your existing estate, or add a luxurious outdoor living space, Echo Construction LLC has the experience and resources to bring your vision to life. We work closely with architects, designers, and other professionals to ensure that your project is completed to the highest standards of quality and craftsmanship. We are also familiar with the local building codes and regulations and can navigate the permitting process with ease. The hot humid summers encourage outdoor living space designs.\n\nFrom concept to completion, we are dedicated to providing unparalleled service and exceeding your expectations. Let Echo Construction LLC be your trusted partner for all your construction needs in Brentwood.",
+        "localContext": "Brentwood is an affluent community known for its luxury estates, wooded lots, and excellent schools. The climate is characterized by hot, humid summers.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Echo Construction LLC is proud to serve the residents of Hendersonville, Tennessee, offering a full range of general contractor services. Situated on the shores of Old Hickory Lake, Hendersonville is known for its beautiful lakefront homes and vibrant community. We understand the unique needs of homeowners in this area and are committed to providing exceptional service and quality craftsmanship.\n\nWhether you're looking to build a new lakefront home, renovate your existing property, or add a dock or outdoor living space, Echo Construction LLC has the expertise to handle your project. We are familiar with the challenges of building near water and can ensure that your project is completed safely and in compliance with all applicable regulations. We also understand the importance of creating outdoor spaces that take full advantage of the stunning lake views. The climate is hot and humid during the summer months.\n\nFrom initial consultation to final inspection, we are dedicated to providing a seamless and stress-free construction experience. Let Echo Construction LLC be your trusted partner for all your construction needs in Hendersonville.",
+        "localContext": "Hendersonville is a lakeside community known for its beautiful homes on Old Hickory Lake and family-friendly atmosphere. The climate is hot and humid during the summer.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "White House"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Echo Construction LLC is proud to be a leading general contractor in Nashville, Tennessee, Music City. Serving the diverse neighborhoods and businesses of Nashville, we bring expertise and quality to every project, from downtown renovations to suburban new builds. We are familiar with the unique architectural styles and building codes of Nashville, ensuring seamless project execution.\n\nWhether you're looking to renovate a historic home in Germantown, build a modern condo in The Gulch, or expand your business in Midtown, Echo Construction LLC has the experience and resources to handle your project. We understand the importance of preserving Nashville's character while incorporating modern amenities and functionality. The city boasts a vibrant culture with hot, humid summers.\n\nFrom initial design to final touches, we are committed to providing exceptional customer service and delivering results that exceed your expectations. Let Echo Construction LLC be your trusted partner for all your construction needs in Nashville.",
+        "localContext": "Nashville is a vibrant city known for its music scene, diverse culture, and booming real estate market. The climate is hot and humid during the summer months.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "Echo Construction LLC is excited to offer our general contractor services to the growing community of Spring Hill, Tennessee. Known for its family-friendly atmosphere and convenient location, Spring Hill is a popular choice for those seeking a suburban lifestyle. We understand the needs of Spring Hill homeowners and businesses and are committed to providing high-quality workmanship at competitive prices.\n\nWhether you're looking to build a new home in one of Spring Hill's many new developments, renovate your existing space, or add an outdoor living area, Echo Construction LLC has the experience and expertise to handle your project. We are familiar with the local building codes and regulations and can ensure that your project is completed safely and efficiently. We also understand the importance of creating comfortable and functional living spaces that meet the needs of modern families. The climate presents hot, humid summers.\n\nFrom initial consultation to final inspection, we are committed to providing exceptional customer service and ensuring your complete satisfaction. Let Echo Construction LLC be your trusted partner for all your construction needs in Spring Hill.",
+        "localContext": "Spring Hill is a rapidly growing suburban community known for its family-friendly atmosphere and convenient location. The area generally experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Columbia",
+          "Thompson's Station",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Thompson's Station",
+        "slug": "thompson-s-station-tn",
+        "state": "TN",
+        "content": "Echo Construction LLC provides exceptional construction services to Thompson's Station, TN. We specialize in custom homes, renovations, and additions that reflect the unique charm and needs of this growing community. Our experienced team ensures quality craftsmanship and attention to detail in every project, from initial design to final completion. We are committed to providing homeowners with spaces they will enjoy for years to come.\n\nWe are also familiar with the unique challenges presented by the hot, humid summers of Tennessee and can recommend building materials and techniques that will ensure your home is energy-efficient and comfortable year-round. Whether you want to build a new home or renovate an existing one, we're ready to help you create the living space of your dreams.\n\nFrom design to completion, we are committed to providing exceptional service and quality craftsmanship. Let Echo Construction LLC be your trusted partner for all your construction needs in Thompson's Station.",
+        "localContext": "Thompson's Station is a charming and rapidly growing town known for its scenic beauty and family-friendly environment. The area experiences hot, humid summers and mild winters.",
+        "nearbyAreas": [
+          "Franklin",
+          "Spring Hill",
+          "Columbia"
+        ]
+      },
+      {
+        "city": "Goodlettsville",
+        "slug": "goodlettsville-tn",
+        "state": "TN",
+        "content": "Echo Construction LLC is proud to offer comprehensive general contractor services to the residents and businesses of Goodlettsville, Tennessee. Known for its blend of small-town charm and convenient access to Nashville, Goodlettsville presents unique construction and renovation opportunities. We understand the importance of creating homes and businesses that reflect the values and style of this community.\n\nWhether you're looking to renovate a historic home, build a new commercial space, or add an addition to your existing property, Echo Construction LLC has the expertise to bring your vision to life. We are familiar with the challenges presented by the hot, humid summers of Tennessee and can recommend building materials and techniques that will ensure your home or business is energy-efficient and comfortable year-round. We specialize in creating inviting outdoor spaces for relaxation and entertainment.\n\nFrom design to completion, we are committed to providing exceptional service and quality craftsmanship. Let Echo Construction LLC be your trusted partner for all your construction needs in Goodlettsville.",
+        "localContext": "Goodlettsville is a charming city known for its small-town feel and convenient access to Nashville. The area experiences hot, humid summers and mild winters.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Nashville",
+          "White House"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Echo Construction did an amazing job with our kitchen remodel! From the initial consultation to the final walkthrough, they were professional, responsive, and attentive to detail. Our new kitchen is beautiful and functional, and we couldn't be happier!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "We hired Echo Construction to remodel our master bathroom, and we're very pleased with the results. The team was skilled and efficient, and they communicated effectively throughout the project. There were a couple of minor hiccups along the way, but they were quick to address them and ensure our satisfaction.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Echo Construction transformed our unfinished basement into a beautiful and functional living space. They were professional, reliable, and easy to work with. We highly recommend them!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "We hired Echo Construction to build a new deck in our backyard, and we're thrilled with the results. The deck is beautiful, sturdy, and perfectly suited to our needs. The team was professional and efficient, and they completed the project on time and within budget.",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "Echo Construction repaired a leak in our roof after a recent storm. They were responsive, professional, and reasonably priced. We appreciate their quick and efficient service!",
+        "date": "2024-04-05"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Whole House Remodel",
+        "text": "We undertook a whole house remodel with Echo Construction. It was a significant undertaking, but they managed it expertly. Our 1930s bungalow in East Nashville feels brand new while retaining its original charm. Excellent communication throughout the project!",
+        "date": "2023-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Echo Construction LLC | Nashville, TN",
+        "description": "Nashville's top general contractor. Kitchen & bath remodels, roofing, decks & more. Trusted, local experts. Free estimates!"
+      },
+      "about": {
+        "title": "About Echo Construction LLC | Nashville",
+        "description": "Learn about Echo Construction's history, values, and commitment to quality craftsmanship in Nashville, TN."
+      },
+      "services": {
+        "title": "Nashville Contractor Services | Echo Construction",
+        "description": "Explore Echo Construction's comprehensive contractor services: remodeling, roofing, decks, basement finishing & more."
+      },
+      "contact": {
+        "title": "Contact Echo Construction | Nashville, TN",
+        "description": "Contact Echo Construction for a free consultation. Serving Nashville, Franklin, Brentwood, Murfreesboro, and Hendersonville."
+      },
+      "reviews": {
+        "title": "Echo Construction Reviews | Nashville, TN",
+        "description": "Read reviews from satisfied Echo Construction customers in Nashville and surrounding areas. Quality work, reliable service."
+      },
+      "service-areas": {
+        "title": "Service Areas | Echo Construction LLC",
+        "description": "Echo Construction serves Nashville, Franklin, Brentwood, Murfreesboro, and Hendersonville. Contact us for local construction and remodeling."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "whole-house-remodeling": "/images/service-whole-house-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "roofing-services": "/images/service-roofing-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-remodeling": {
+        "src": "/images/service-whole-house-remodeling.webp",
+        "srcset": "/images/service-whole-house-remodeling-400w.webp 400w, /images/service-whole-house-remodeling-800w.webp 800w, /images/service-whole-house-remodeling-1200w.webp 1200w, /images/service-whole-house-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
